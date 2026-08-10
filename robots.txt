@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: igrovye-avtomaty-s-vyvodom-na-kartu.github.io
+Sitemap: https://igrovye-avtomaty-s-vyvodom-na-kartu.github.io/sitemap.xml
